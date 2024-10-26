@@ -11,7 +11,6 @@ This is a web-based management system designed for **Tres Marias Cake and Pastri
    - [Admin](#admin)
 4. [Installation](#installation)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
