@@ -75,4 +75,12 @@ The **Tres Marias Cake and Pastries Web-based Management System** is built to st
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pizza4sale/TMCP.git
-Contact: https://www.facebook.com/Pizza4sale/ on FB or call 09195431910
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+**Author**: https://www.facebook.com/Pizza4sale/  
+**Contact**: 09195431910  
